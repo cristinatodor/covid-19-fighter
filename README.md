@@ -1,1 +1,1 @@
-# covid-19-figther
+# covid-19-fighter
